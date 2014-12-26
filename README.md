@@ -27,6 +27,7 @@ $ make test
 ./phpunit.xmlを適時編集
 
 ### testrunner
+コンパイルを行う
 
 ```
 $ ./vendor/bin/testrunner compile -p vendor/autoload.php
