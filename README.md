@@ -1,4 +1,5 @@
 # tdd-skeleton-php
+testrunnerを利用したphpunitのスケルトン(testrunnerを使うためphpunitは3.7を利用)
 
 ## setup
 
