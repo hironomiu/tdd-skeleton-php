@@ -21,5 +21,18 @@ $ make test
 ```
 
 ## 設定
+
+### phpunit
 ./phpunit.xmlを適時編集
 
+### testrunner
+
+```
+$ ./vendor/bin/testrunner compile -p vendor/autoload.php
+```
+
+## testrunner実行
+
+```
+$ ./vendor/bin/testrunner phpunit -p vendor/autoload.php -a tests -a src
+```
