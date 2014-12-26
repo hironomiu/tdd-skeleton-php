@@ -8,15 +8,18 @@ $ make setup
 
 ## TDD
 
-- tests
-  - ./tests
+- テスト 
+./tests配下に記述
 
-- src
-  - ./src
+- 実装 
+./src配下に記載
 
-## test
+## test実行
 
 ```
 $ make test
 ```
+
+## 設定
+./phpunit.xmlを適時編集
 
