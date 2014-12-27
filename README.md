@@ -22,11 +22,11 @@ $ make testrunner
 
 ## TDD
 
-- テスト
-./tests配下に記述
+### テスト
+`./tests`配下に記述
 
-- 実装
-./src配下に記載
+### 実装
+`./src`配下に記載
 
 ## test実行
 
