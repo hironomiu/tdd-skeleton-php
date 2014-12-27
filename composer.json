@@ -1,6 +1,6 @@
 {
     "require":{
-         "piece/stagehand-testrunner": "*",
+        "piece/stagehand-testrunner": "*",
         "phpunit/phpunit": "3.7.*"
     },
     "autoload":{

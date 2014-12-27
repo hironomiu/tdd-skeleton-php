@@ -6,4 +6,4 @@ download:
 setup:download
 	$(PHP) composer.phar install
 test:
-	$(PHP) vendor/phpunit/phpunit/phpunit --bootstrap ./vendor/autoload.php --colors ./tests
+	$(PHP) vendor/bin/phpunit --bootstrap ./vendor/autoload.php --colors ./tests
